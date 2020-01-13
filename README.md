@@ -2,7 +2,7 @@
 
 A simple implementation of ranking for search based systems using semantic similarity. 
 
-### Simple Writeup
+## Writeup
 
 **Note: A more detailed writeup will be added soon**
 
