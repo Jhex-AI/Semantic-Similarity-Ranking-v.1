@@ -2,7 +2,9 @@
 
 A simple implementation of ranking for search based systems using semantic similarity. 
 
-### Writeup
+### Simple Writeup
+
+**Note: A more detailed writeup will be added soon**
 
 1. Acquired the dataset through Slack.
 2. Pre-processed the dataset
