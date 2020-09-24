@@ -2,6 +2,10 @@
 
 A simple implementation of ranking for search based systems using semantic similarity. 
 
+## Dataset
+
+https://ciir.cs.umass.edu/downloads/WebAP/
+
 ## Writeup
 
 **Note: A more detailed writeup will be added soon**
